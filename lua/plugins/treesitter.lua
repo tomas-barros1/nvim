@@ -14,5 +14,8 @@ return {
       "markdown",
       "embedded_template",
     },
-  },
+    highlight = {
+      enable = true,
+    },
+  }
 }

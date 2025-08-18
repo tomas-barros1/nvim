@@ -3,10 +3,8 @@ return {
   ---@type AstroLSPOpts
   opts = {
     autoformat = {
-      enable = true,           
-      format_on_save = true,  
-    },
-    formatting = {
+      enable = true,
+      format_on_save = true,
     },
   },
 }
